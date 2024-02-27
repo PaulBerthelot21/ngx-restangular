@@ -37,6 +37,7 @@
     "angular 8 restangular",
     "angular 9 restangular",
     "angular 10 restangular",
+    "angular 11 restangular",
     "angular 2 rest",
     "angular 4 rest",
     "angular 5 rest",
@@ -44,7 +45,8 @@
     "angular 7 rest",
     "angular 8 rest",
     "angular 9 rest",
-    "angular 10 rest"
+    "angular 10 rest",
+    "angular 11 rest"
   ],
   "author": "logvinoleg89 <logvinoleg89@gmail.com>",
   "license": "MIT",
